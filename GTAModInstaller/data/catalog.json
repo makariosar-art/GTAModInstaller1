@@ -1,0 +1,183 @@
+{
+  "popular": [
+    {
+      "title": "Simple Trainer for GTA V",
+      "url": "https://www.gta5-mods.com/scripts/simple-trainer-for-gtav",
+      "author": "sjaak327",
+      "tag": "Тренер",
+      "image": "https://img.gta5-mods.com/q75/images/simple-trainer-for-gtav/f45d1d-optionsv.jpg",
+      "deps": [
+        "shv"
+      ],
+      "summary": "Various options normal to any trainer, the world's simplest speedometer, either in KM/H or MP/H or both, 60 Teleporting options that can be customized using the trainerv.ini, 12 vehicle spawning options assigned to hotkeys, which also can b",
+      "categories": [
+        "Featured",
+        "Sound",
+        "Radio",
+        "Featured"
+      ]
+    },
+    {
+      "title": "Menyoo 2.0 (Enhanced & Legacy)",
+      "url": "https://www.gta5-mods.com/scripts/menyoo-2-0",
+      "author": "MAFINS, ItsJustCurtis, et al.",
+      "tag": "Тренер",
+      "image": "https://img.gta5-mods.com/q75/images/menyoo-2-0/bd4b3e-banner_FINALB.png",
+      "deps": [
+        "shv"
+      ],
+      "summary": "Requirements\nLatest Version of Scripthook\nASI Loader built into OpenIV (Legacy)\nASI Loader from OpenRPF (Enhanced)\nAlloc8ors Directstorage fix (If using Windows 11)\nBattleye Disabled in the Rockstar Launcher\n\nInstallation\nExtract contents of the downloaded zip file to your GTAV r",
+      "categories": []
+    },
+    {
+      "title": "[Legacy & Enhanced] Enhanced Native Trainer",
+      "url": "https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others",
+      "author": "Zemanez, arewenotmen and others",
+      "tag": "Тренер",
+      "image": "https://img.gta5-mods.com/q75/images/enhanced-native-trainer-zemanez-and-others/335242-GTA5_2020-07-05_22-14-13.png",
+      "deps": [
+        "shv"
+      ],
+      "summary": "After seeing ENT in serious need of an update (and with the other ENT members not having the time anymore to update ENT) I've taken on the role of keeping ENT as up to date as I can.\n\nI've been releasing updates on GTAForums for a while now",
+      "categories": [
+        "Vehicles",
+        "Player",
+        "Weapons",
+        ".Net"
+      ]
+    },
+    {
+      "title": "Add-On Vehicle Spawner",
+      "url": "https://www.gta5-mods.com/scripts/add-on-vehicle-spawner",
+      "author": "ikt",
+      "tag": "Транспорт",
+      "image": "https://img.gta5-mods.com/q75/images/add-on-vehicle-spawner/0db1f1-GTA5_20211017143300942.png",
+      "deps": [
+        "shv",
+        "shvdn"
+      ],
+      "summary": "Add-on Spawner is a ScriptHookV script that automatically looks for add-on vehicles and puts them in a menu for you to spawn.\n\nFeatures\nDetects added vehicles automaticallySearch by make, model or nameVarious spawn optionsVarious sorting op",
+      "categories": [
+        "Vehicles",
+        ".Net",
+        "Featured",
+        "Vehicles"
+      ]
+    },
+    {
+      "title": "Map Editor",
+      "url": "https://www.gta5-mods.com/scripts/map-editor",
+      "author": "Guadmaz",
+      "tag": "Скрипт",
+      "image": "https://img.gta5-mods.com/q75/images/map-editor/fcac1a-mapeditor1%283%29.PNG",
+      "deps": [
+        "shv",
+        "shvdn"
+      ],
+      "summary": "Description\nThis is a tool reminiscent of MTA:SA Map Editor days. You have a freecam to navigate around, and you can spawn objects (with preview!), move them around with your mouse or keys. Then you can save or load your map in various form",
+      "categories": [
+        "Vehicles",
+        ".Net",
+        "Featured",
+        "Developers"
+      ]
+    },
+    {
+      "title": "Open All Interiors",
+      "url": "https://www.gta5-mods.com/scripts/open-all-interiors",
+      "author": "NewTheft",
+      "tag": "Скрипт",
+      "image": "https://img.gta5-mods.com/q75/images/open-all-interiors/3433ff-smaller.png",
+      "deps": [
+        "shv"
+      ],
+      "summary": "Open All Interiors mod v5.1 - by NewTheft (aka TaazR on gtaforums) (youtube.com/newtheft)\n\nWhat does it do?:\n1. This mod opens up pretty much every interior in the game files with fully functional doors too. In many of the interiors, there ",
+      "categories": [
+        "Player",
+        "Gameplay",
+        "Asi",
+        "North Yankton"
+      ]
+    },
+    {
+      "title": "VStancer",
+      "url": "https://www.gta5-mods.com/scripts/vstancer",
+      "author": "ikt",
+      "tag": "Скрипт",
+      "image": "https://img.gta5-mods.com/q75/images/vstancer/ecfb81-20260324001236668_GTA5_Enhanced_Enhanced_Crop.jpg",
+      "deps": [
+        "shv"
+      ],
+      "summary": "VStancer applies wheel and suspension modifications to vehicles.\n\nRequirements\nScriptHookV\nGame version greater or equal to 1.0.2372.0\n\nInstallation\nDrag and drop VStancer.asi and the folder VStancer to the main GTA V folder.\n\nOpening the menu\nEnter vstancer in the cheat console ",
+      "categories": []
+    },
+    {
+      "title": "VisualV",
+      "url": "https://www.gta5-mods.com/misc/visualv",
+      "author": "_CP_ & robi29",
+      "tag": "Графика",
+      "image": "https://img.gta5-mods.com/q75/images/visualv/d1c5b5-new2.jpg",
+      "deps": [
+        "openiv"
+      ],
+      "summary": "VisualV is a graphic overhaul modification for Grand Theft Auto V, bringing you a completely redone weather effects, edited modificators for areas/interiors, improved color correction and much much more to add some life to Los Santos and Bl",
+      "categories": [
+        "Interior",
+        "Featured",
+        "Add-On",
+        "Car"
+      ]
+    },
+    {
+      "title": "HeapAdjuster",
+      "url": "https://www.gta5-mods.com/tools/heapadjuster",
+      "author": "Dilapidated",
+      "tag": "Инструмент",
+      "image": "https://img.gta5-mods.com/q75/images/heapadjuster/3d9a3a-d4c8b0-Dilapidated-FiveM_HeapAdjuster.png",
+      "deps": [
+        "shv"
+      ],
+      "summary": "This is a modified version of the HeapAdjuster mod which can be found here: https://www.gta5-mods.com/tools/heap-limit-adjuster-600-mb-of-heap\n\nThe purpose of this asi remains the same as the original which is to resolve ERR MEM EMBEDDEDALL",
+      "categories": [
+        "Featured",
+        "Emergency",
+        "Featured",
+        "Boat"
+      ]
+    },
+    {
+      "title": "Packfile Limit Adjuster",
+      "url": "https://www.gta5-mods.com/tools/packfile-limit-adjuster",
+      "author": "Unknown Modder",
+      "tag": "Инструмент",
+      "image": "https://img.gta5-mods.com/q75/images/packfile-limit-adjuster/425777-PackfileLimitAdjuster.png",
+      "deps": [
+        "shv"
+      ],
+      "summary": "Note: This was never meant for public use since it's a horrible hack but due to high demand I've decided to upload it so I don't get asked for it all the time.\n\nAbout\nThis ASI plugin doubles the amount of packfiles (aka RPFs) the game can h",
+      "categories": [
+        "Ramps",
+        "Racetrack",
+        "Road",
+        "Community Races"
+      ]
+    },
+    {
+      "title": "LUA Plugin for Script Hook V",
+      "url": "https://www.gta5-mods.com/tools/lua-plugin-for-script-hook-v",
+      "author": "headscript",
+      "tag": "Инструмент",
+      "image": "https://img.gta5-mods.com/q75/images/lua-plugin-for-script-hook-v/72e11e-Lua-logo-nolabel.jpg",
+      "deps": [
+        "shv"
+      ],
+      "summary": "Description:\nWrite any LUA Script for GTA5\n\nDownload SDK Version Here\n\nRequired:\nVS 2013 x64 Redist",
+      "categories": [
+        "Developers",
+        "Script Hook",
+        "Enhanced",
+        "Mod Manager"
+      ]
+    }
+  ]
+}
